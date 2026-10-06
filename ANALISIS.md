@@ -146,4 +146,4 @@ Los Parquet crudos se descargan para análisis local, se excluyen con
 Los resultados agregados y el código permiten reproducción desde los
 enlaces públicos. El DOI `10.5281/zenodo.22084012` identifica el dataset
 original, no este paquete de réplica. El repositorio de este paquete es https://github.com/franciscoo30/ghaw-h-maintenance-barrozo-paredes.
-Su DOI propio se incorporará cuando se archive la release en Zenodo.
+La release v0.1.0 está archivada con DOI propio: https://doi.org/10.5281/zenodo.23176470.

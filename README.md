@@ -54,6 +54,8 @@ Dataset original: P. Valenzuela-Toledo, T. Kehrer y S. Panichella, *GHAW-H: A Da
 
 ## Citar y archivar este paquete
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23176470.svg)](https://doi.org/10.5281/zenodo.23176470)
+
 Repositorio: [https://github.com/franciscoo30/ghaw-h-maintenance-barrozo-paredes](https://github.com/franciscoo30/ghaw-h-maintenance-barrozo-paredes).
 
-Utilice los autores y la versión de `CITATION.cff`. La primera release prevista es `v0.1.0`; su DOI propio se incorporará cuando Zenodo termine de archivarla. Los enlaces del paquete en el manuscrito se completarán al obtener el DOI propio; el PDF incluido corresponde al manuscrito previo a la publicación del paquete.
+La release [`v0.1.0`](https://github.com/franciscoo30/ghaw-h-maintenance-barrozo-paredes/releases/tag/v0.1.0) del análisis y las figuras está archivada en [Zenodo](https://doi.org/10.5281/zenodo.23176470). Utilice los autores, la versión y el DOI de `CITATION.cff`. El fuente LaTeX de la rama `main` incorpora los enlaces reales después del archivado; el PDF incluido corresponde al manuscrito previo a la publicación del paquete y deberá recompilarse desde el fuente actualizado.
