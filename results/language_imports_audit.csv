@@ -1,0 +1,27 @@
+language,histories,imports_field_histories,one_line_body_histories
+C,4,0,0
+C#,103,37,0
+C++,18,0,0
+Dart,2,1,0
+Elixir,2,1,0
+Erlang,1,0,0
+F#,25,0,0
+Go,93,69,50
+HTML,3,0,0
+Java,23,0,0
+JavaScript,17,1,0
+Julia,1,0,0
+Jupyter Notebook,1,0,0
+Kotlin,6,1,0
+Lua,6,6,0
+Makefile,45,40,40
+PHP,1,0,0
+Python,68,27,0
+R,1,0,0
+Ruby,16,15,0
+Rust,31,2,0
+Shell,9,2,2
+Swift,2,0,0
+TypeScript,123,16,4
+Unknown,1,0,0
+Vue,2,0,0

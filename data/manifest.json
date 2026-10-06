@@ -1,0 +1,33 @@
+{
+  "dataset": "pavtch/GHAW-H",
+  "revision": "9ccc840bd7e96fd90db3a16548d5482c2833c47d",
+  "downloaded_at_utc": "2026-10-06T00:45:04.054399+00:00",
+  "dataset_doi": "10.5281/zenodo.22084012",
+  "files": {
+    "lock_file_snapshot": {
+      "url": "https://huggingface.co/datasets/pavtch/GHAW-H/resolve/9ccc840bd7e96fd90db3a16548d5482c2833c47d/data/lock_file_snapshot.parquet",
+      "bytes": 69561380,
+      "sha256": "0272d5b7b7e93d26d52116214dd167b5f3940d135f75474092e06bb434df77b3"
+    },
+    "repository": {
+      "url": "https://huggingface.co/datasets/pavtch/GHAW-H/resolve/9ccc840bd7e96fd90db3a16548d5482c2833c47d/data/repository.parquet",
+      "bytes": 33733,
+      "sha256": "75bc7e5a838281f49403e682709775936568f781031ef94b01bec343148c6ae8"
+    },
+    "source_markdown_file_history": {
+      "url": "https://huggingface.co/datasets/pavtch/GHAW-H/resolve/9ccc840bd7e96fd90db3a16548d5482c2833c47d/data/source_markdown_file_history.parquet",
+      "bytes": 4591,
+      "sha256": "5c90e748b8e5ad59de088111ea91af6b06ec08789d70e0a7600e9273ca5a02a4"
+    },
+    "source_markdown_file_snapshot": {
+      "url": "https://huggingface.co/datasets/pavtch/GHAW-H/resolve/9ccc840bd7e96fd90db3a16548d5482c2833c47d/data/source_markdown_file_snapshot.parquet",
+      "bytes": 15977646,
+      "sha256": "b8049b2f05bdbce449f24dfef3ca70e1b135b339a17347ad9d88a98f4e8d94b9"
+    },
+    "source_markdown_file_version": {
+      "url": "https://huggingface.co/datasets/pavtch/GHAW-H/resolve/9ccc840bd7e96fd90db3a16548d5482c2833c47d/data/source_markdown_file_version.parquet",
+      "bytes": 171596,
+      "sha256": "88576175db0645f52f399279d6e263f35fc2c152fbc18f734f2eb28c05cc1b2f"
+    }
+  }
+}

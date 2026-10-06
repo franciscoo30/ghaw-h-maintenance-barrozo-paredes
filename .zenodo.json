@@ -1,0 +1,38 @@
+{
+  "title": "Mantenimiento de archivos Markdown en GitHub Agentic Workflows: paquete de réplica de la Etapa 2",
+  "version": "0.1.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "spa",
+  "creators": [
+    {
+      "name": "Barrozo, Francisco",
+      "affiliation": "Universidad de La Frontera"
+    },
+    {
+      "name": "Paredes, Antonia",
+      "affiliation": "Universidad de La Frontera"
+    }
+  ],
+  "description": "Paquete de réplica de un estudio observacional longitudinal de mantenimiento textual de archivos Markdown de GitHub Agentic Workflows. Incluye scripts de descarga y análisis, revisión inmutable y hashes SHA-256 de GHAW-H, resultados descriptivos y de sensibilidad, boxplots reproducibles y manuscrito de la Etapa 2. Se analizaron 262 repositorios, 604 historias, 2.820 versiones y 2.216 transiciones, de las cuales 954 modifican líneas del cuerpo Markdown. El código tiene licencia MIT; el documento, las figuras y los resultados propios se ofrecen bajo CC BY 4.0 según LICENSE-DOCUMENTS.md. Los datos originales se descargan desde GHAW-H y no se redistribuyen en este paquete. Los resultados son descriptivos y no estiman efectos causales, calidad del agente ni esfuerzo humano.",
+  "keywords": [
+    "GitHub Agentic Workflows",
+    "GHAW-H",
+    "software maintenance",
+    "repository mining",
+    "replication package"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.22084012",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/franciscoo30/ghaw-h-maintenance-barrozo-paredes",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

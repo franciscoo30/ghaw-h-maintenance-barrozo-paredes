@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si utiliza el software de este paquete de réplica, cite esta versión. MIT se aplica al código; el documento y los resultados propios usan CC BY 4.0, según LICENSE-DOCUMENTS.md."
+title: "Mantenimiento de archivos Markdown en GitHub Agentic Workflows: paquete de réplica de la Etapa 2"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Barrozo
+    given-names: Francisco
+    affiliation: Universidad de La Frontera
+  - family-names: Paredes
+    given-names: Antonia
+    affiliation: Universidad de La Frontera
+abstract: "Análisis descriptivo reproducible de mantenimiento textual de archivos Markdown en GHAW-H, separado por cuerpo y configuración, con comparación contextual por repositorio."
+keywords:
+  - GitHub Agentic Workflows
+  - GHAW-H
+  - mantenimiento de software
+  - minería de repositorios
+license: MIT
+repository-code: "https://github.com/franciscoo30/ghaw-h-maintenance-barrozo-paredes"

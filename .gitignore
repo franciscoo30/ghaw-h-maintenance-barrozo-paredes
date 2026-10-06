@@ -1,0 +1,11 @@
+.venv/
+.deps/
+__pycache__/
+data/raw/
+*.partial
+.env
+.env.*
+*.aux
+*.log
+*.out
+*.synctex.gz

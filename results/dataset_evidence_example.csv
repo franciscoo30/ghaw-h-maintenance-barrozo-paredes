@@ -1,0 +1,6 @@
+source_markdown_file_version_id,source_markdown_file_history_id,source_markdown_file_snapshot_id,rank,committed_at,predecessor_source_markdown_file_version_id,successor_source_markdown_file_version_id,repo_full_name,main_language,path,content_loc,body_loc,frontmatter_loc
+1,1,1,1,2026-06-17T18:15:03Z,,,apache/cloudstack,Java,.github/workflows/daily-issue-triage.md,171,138,31
+2,2,2,1,2026-02-17T15:11:01Z,,3,apache/cloudstack,Java,.github/workflows/daily-repo-status.md,54,23,29
+3,2,3,2,2026-02-18T08:35:17Z,2,4,apache/cloudstack,Java,.github/workflows/daily-repo-status.md,54,23,29
+4,2,4,3,2026-05-29T09:15:49Z,3,5,apache/cloudstack,Java,.github/workflows/daily-repo-status.md,58,23,33
+5,2,5,4,2026-06-17T18:15:03Z,4,,apache/cloudstack,Java,.github/workflows/daily-repo-status.md,62,23,37
